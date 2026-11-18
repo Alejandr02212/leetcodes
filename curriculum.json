@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "title": "Add Two Numbers",
+    "difficulty": "Easy",
+    "pattern": "Inputs, return values, and arithmetic",
+    "stage": 1,
+    "problem": "01_python_reboot/001_add_two_numbers/problem.py",
+    "solution": "01_python_reboot/001_add_two_numbers/solution.py"
+  },
+  {
+    "id": 2,
+    "title": "Larger of Two Numbers",
+    "difficulty": "Easy",
+    "pattern": "Conditionals",
+    "stage": 1,
+    "problem": "01_python_reboot/002_larger_of_two/problem.py",
+    "solution": "01_python_reboot/002_larger_of_two/solution.py"
+  },
+  {
+    "id": 3,
+    "title": "Absolute Difference",
+    "difficulty": "Easy",
+    "pattern": "Conditionals and sign",
+    "stage": 1,
+    "problem": "01_python_reboot/003_absolute_difference/problem.py",
+    "solution": "01_python_reboot/003_absolute_difference/solution.py"
+  },
+  {
+    "id": 4,
+    "title": "Count Even Numbers",
+    "difficulty": "Easy",
+    "pattern": "Counting loop",
+    "stage": 1,
+    "problem": "01_python_reboot/004_count_even_numbers/problem.py",
+    "solution": "01_python_reboot/004_count_even_numbers/solution.py"
+  },
+  {
+    "id": 5,
+    "title": "Sum a List",
+    "difficulty": "Easy",
+    "pattern": "Accumulator loop",
+    "stage": 1,
+    "problem": "01_python_reboot/005_sum_a_list/problem.py",
+    "solution": "01_python_reboot/005_sum_a_list/solution.py"
+  },
+  {
+    "id": 6,
+    "title": "Smallest Value",
+    "difficulty": "Easy",
+    "pattern": "Running best",
+    "stage": 1,
+    "problem": "01_python_reboot/006_smallest_value/problem.py",
+    "solution": "01_python_reboot/006_smallest_value/solution.py"
+  },
+  {
+    "id": 7,
+    "title": "Count a Target",
+    "difficulty": "Easy",
+    "pattern": "Predicate counting",
+    "stage": 1,
+    "problem": "01_python_reboot/007_count_target/problem.py",
+    "solution": "01_python_reboot/007_count_target/solution.py"
+  },
+  {
+    "id": 8,
+    "title": "First Target Index",
+    "difficulty": "Easy",
+    "pattern": "Linear search with early return",
+    "stage": 1,
+    "problem": "01_python_reboot/008_first_target_index/problem.py",
+    "solution": "01_python_reboot/008_first_target_index/solution.py"
+  },
+  {
+    "id": 9,
+    "title": "Reverse Into a New List",
+    "difficulty": "Easy",
+    "pattern": "Reverse traversal and output building",
+    "stage": 1,
+    "problem": "01_python_reboot/009_reverse_list_copy/problem.py",
+    "solution": "01_python_reboot/009_reverse_list_copy/solution.py"
+  },
+  {
+    "id": 10,
+    "title": "Exact String Palindrome",
+    "difficulty": "Easy",
+    "pattern": "Two pointers: compare mirrored positions",
+    "stage": 1,
+    "problem": "01_python_reboot/010_exact_string_palindrome/problem.py",
+    "solution": "01_python_reboot/010_exact_string_palindrome/solution.py"
+  },
+  {
+    "id": 11,
+    "title": "Fizz Buzz",
+    "difficulty": "Easy",
+    "pattern": "Ordered conditions and mapping a range",
+    "stage": 2,
+    "problem": "02_arrays_and_strings/011_fizz_buzz/problem.py",
+    "solution": "02_arrays_and_strings/011_fizz_buzz/solution.py"
+  },
+  {
+    "id": 12,
+    "title": "Second Largest Distinct Value",
+    "difficulty": "Easy",
+    "pattern": "Maintain two best candidates",
+    "stage": 2,
+    "problem": "02_arrays_and_strings/012_second_largest_distinct/problem.py",
+    "solution": "02_arrays_and_strings/012_second_largest_distinct/solution.py"
+  },
+  {
+    "id": 13,
+    "title": "Move Zeroes to the End",
+    "difficulty": "Easy",
+    "pattern": "In-place write pointer",
+    "stage": 2,
+    "problem": "02_arrays_and_strings/013_move_zeroes/problem.py",
+    "solution": "02_arrays_and_strings/013_move_zeroes/solution.py"
+  },
+  {
+    "id": 14,
+    "title": "Remove Duplicates From a Sorted Array",
+    "difficulty": "Easy",
+    "pattern": "In-place read/write pointers",
+    "stage": 2,
+    "problem": "02_arrays_and_strings/014_remove_sorted_duplicates/problem.py",
+    "solution": "02_arrays_and_strings/014_remove_sorted_duplicates/solution.py"
+  },
+  {
+    "id": 15,
+    "title": "Merge Two Sorted Arrays",
+    "difficulty": "Easy",
+    "pattern": "Two sorted streams",
+    "stage": 2,
+    "problem": "02_arrays_and_strings/015_merge_sorted_arrays/problem.py",
+    "solution": "02_arrays_and_strings/015_merge_sorted_arrays/solution.py"
+  },
+  {
+    "id": 16,
+    "title": "Longest Common Prefix",
+    "difficulty": "Easy",
+    "pattern": "Column-wise scan and early exit",
+    "stage": 2,
+    "problem": "02_arrays_and_strings/016_longest_common_prefix/problem.py",
+    "solution": "02_arrays_and_strings/016_longest_common_prefix/solution.py"
+  },
+  {
+    "id": 17,
+    "title": "Valid Anagram",
+    "difficulty": "Easy",
+    "pattern": "Frequency map",
+    "stage": 2,
+    "problem": "02_arrays_and_strings/017_valid_anagram/problem.py",
+    "solution": "02_arrays_and_strings/017_valid_anagram/solution.py"
+  },
+  {
+    "id": 18,
+    "title": "First Unique Character",
+    "difficulty": "Easy",
+    "pattern": "Count first, scan second",
+    "stage": 2,
+    "problem": "02_arrays_and_strings/018_first_unique_character/problem.py",
+    "solution": "02_arrays_and_strings/018_first_unique_character/solution.py"
+  },
+  {
+    "id": 19,
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "pattern": "Hash lookup for a complement",
+    "stage": 2,
+    "problem": "02_arrays_and_strings/019_two_sum/problem.py",
+    "solution": "02_arrays_and_strings/019_two_sum/solution.py"
+  },
+  {
+    "id": 20,
+    "title": "Contains a Duplicate",
+    "difficulty": "Easy",
+    "pattern": "Seen set and early exit",
+    "stage": 2,
+    "problem": "02_arrays_and_strings/020_contains_duplicate/problem.py",
+    "solution": "02_arrays_and_strings/020_contains_duplicate/solution.py"
+  },
+  {
+    "id": 21,
+    "title": "Unique Intersection",
+    "difficulty": "Easy",
+    "pattern": "Set operations and deterministic output",
+    "stage": 3,
+    "problem": "03_hashing_prefix_sums_windows/021_unique_intersection/problem.py",
+    "solution": "03_hashing_prefix_sums_windows/021_unique_intersection/solution.py"
+  },
+  {
+    "id": 22,
+    "title": "Group Anagrams",
+    "difficulty": "Medium",
+    "pattern": "Canonical key and buckets",
+    "stage": 3,
+    "problem": "03_hashing_prefix_sums_windows/022_group_anagrams/problem.py",
+    "solution": "03_hashing_prefix_sums_windows/022_group_anagrams/solution.py"
+  },
+  {
+    "id": 23,
+    "title": "Top K Frequent Values",
+    "difficulty": "Medium",
+    "pattern": "Frequency buckets",
+    "stage": 3,
+    "problem": "03_hashing_prefix_sums_windows/023_top_k_frequent/problem.py",
+    "solution": "03_hashing_prefix_sums_windows/023_top_k_frequent/solution.py"
+  },
+  {
+    "id": 24,
+    "title": "Product Except Self",
+    "difficulty": "Medium",
+    "pattern": "Prefix and suffix accumulators",
+    "stage": 3,
+    "problem": "03_hashing_prefix_sums_windows/024_product_except_self/problem.py",
+    "solution": "03_hashing_prefix_sums_windows/024_product_except_self/solution.py"
+  },
+  {
+    "id": 25,
+    "title": "Range Sum Queries",
+    "difficulty": "Easy",
+    "pattern": "Prefix sums and half-open ranges",
+    "stage": 3,
+    "problem": "03_hashing_prefix_sums_windows/025_range_sum_queries/problem.py",
+    "solution": "03_hashing_prefix_sums_windows/025_range_sum_queries/solution.py"
+  },
+  {
+    "id": 26,
+    "title": "Pivot Index",
+    "difficulty": "Easy",
+    "pattern": "Running prefix sum",
+    "stage": 3,
+    "problem": "03_hashing_prefix_sums_windows/026_pivot_index/problem.py",
+    "solution": "03_hashing_prefix_sums_windows/026_pivot_index/solution.py"
+  },
+  {
+    "id": 27,
+    "title": "Subarray Sum Equals K",
+    "difficulty": "Medium",
+    "pattern": "Prefix sums + frequency map",
+    "stage": 3,
+    "problem": "03_hashing_prefix_sums_windows/027_subarray_sum_equals_k/problem.py",
+    "solution": "03_hashing_prefix_sums_windows/027_subarray_sum_equals_k/solution.py"
+  },
+  {
+    "id": 28,
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "Medium",
+    "pattern": "Hash set + sequence starts",
+    "stage": 3,
+    "problem": "03_hashing_prefix_sums_windows/028_longest_consecutive_sequence/problem.py",
+    "solution": "03_hashing_prefix_sums_windows/028_longest_consecutive_sequence/solution.py"
+  },
+  {
+    "id": 29,
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "pattern": "Variable sliding window + last seen index",
+    "stage": 3,
+    "problem": "03_hashing_prefix_sums_windows/029_longest_unique_substring/problem.py",
+    "solution": "03_hashing_prefix_sums_windows/029_longest_unique_substring/solution.py"
+  },
+  {
+    "id": 30,
+    "title": "Minimum Size Subarray Sum",
+    "difficulty": "Medium",
+    "pattern": "Variable sliding window with positive numbers",
+    "stage": 3,
+    "problem": "03_hashing_prefix_sums_windows/030_minimum_size_subarray_sum/problem.py",
+    "solution": "03_hashing_prefix_sums_windows/030_minimum_size_subarray_sum/solution.py"
+  },
+  {
+    "id": 31,
+    "title": "Two Sum in a Sorted Array",
+    "difficulty": "Easy",
+    "pattern": "Opposing two pointers",
+    "stage": 4,
+    "problem": "04_two_pointers_and_windows/031_two_sum_sorted/problem.py",
+    "solution": "04_two_pointers_and_windows/031_two_sum_sorted/solution.py"
+  },
+  {
+    "id": 32,
+    "title": "Valid Palindrome Ignoring Punctuation",
+    "difficulty": "Easy",
+    "pattern": "Two pointers + skipping irrelevant characters",
+    "stage": 4,
+    "problem": "04_two_pointers_and_windows/032_valid_palindrome_filtered/problem.py",
+    "solution": "04_two_pointers_and_windows/032_valid_palindrome_filtered/solution.py"
+  },
+  {
+    "id": 33,
+    "title": "Container With Most Water",
+    "difficulty": "Medium",
+    "pattern": "Two pointers + safe greedy elimination",
+    "stage": 4,
+    "problem": "04_two_pointers_and_windows/033_container_most_water/problem.py",
+    "solution": "04_two_pointers_and_windows/033_container_most_water/solution.py"
+  },
+  {
+    "id": 34,
+    "title": "Three Sum",
+    "difficulty": "Medium",
+    "pattern": "Sorting + fixed anchor + two pointers",
+    "stage": 4,
+    "problem": "04_two_pointers_and_windows/034_three_sum/problem.py",
+    "solution": "04_two_pointers_and_windows/034_three_sum/solution.py"
+  },
+  {
+    "id": 35,
+    "title": "Maximum Average Fixed Window",
+    "difficulty": "Easy",
+    "pattern": "Fixed-size sliding window",
+    "stage": 4,
+    "problem": "04_two_pointers_and_windows/035_maximum_average_window/problem.py",
+    "solution": "04_two_pointers_and_windows/035_maximum_average_window/solution.py"
+  },
+  {
+    "id": 36,
+    "title": "Permutation in a String",
+    "difficulty": "Medium",
+    "pattern": "Fixed window + character counts",
+    "stage": 4,
+    "problem": "04_two_pointers_and_windows/036_permutation_in_string/problem.py",
+    "solution": "04_two_pointers_and_windows/036_permutation_in_string/solution.py"
+  },
+  {
+    "id": 37,
+    "title": "Longest Repeating Character Replacement",
+    "difficulty": "Medium",
+    "pattern": "Variable window + frequency constraint",
+    "stage": 4,
+    "problem": "04_two_pointers_and_windows/037_character_replacement/problem.py",
+    "solution": "04_two_pointers_and_windows/037_character_replacement/solution.py"
+  },
+  {
+    "id": 38,
+    "title": "Max Consecutive Ones After K Flips",
+    "difficulty": "Medium",
+    "pattern": "Variable window with a budget",
+    "stage": 4,
+    "problem": "04_two_pointers_and_windows/038_max_ones_after_flips/problem.py",
+    "solution": "04_two_pointers_and_windows/038_max_ones_after_flips/solution.py"
+  },
+  {
+    "id": 39,
+    "title": "Fruit Into Two Baskets",
+    "difficulty": "Medium",
+    "pattern": "Variable window with at most K distinct values",
+    "stage": 4,
+    "problem": "04_two_pointers_and_windows/039_fruit_two_baskets/problem.py",
+    "solution": "04_two_pointers_and_windows/039_fruit_two_baskets/solution.py"
+  },
+  {
+    "id": 40,
+    "title": "Find All Anagram Start Indices",
+    "difficulty": "Medium",
+    "pattern": "Fixed window + character frequencies",
+    "stage": 4,
+    "problem": "04_two_pointers_and_windows/040_all_anagram_indices/problem.py",
+    "solution": "04_two_pointers_and_windows/040_all_anagram_indices/solution.py"
+  },
+  {
+    "id": 41,
+    "title": "Binary Search",
+    "difficulty": "Easy",
+    "pattern": "Binary search on a closed interval",
+    "stage": 5,
+    "problem": "05_binary_search/041_binary_search/problem.py",
+    "solution": "05_binary_search/041_binary_search/solution.py"
+  },
+  {
+    "id": 42,
+    "title": "Search Insert Position",
+    "difficulty": "Easy",
+    "pattern": "Lower bound: first value >= target",
+    "stage": 5,
+    "problem": "05_binary_search/042_search_insert_position/problem.py",
+    "solution": "05_binary_search/042_search_insert_position/solution.py"
+  },
+  {
+    "id": 43,
+    "title": "First and Last Position",
+    "difficulty": "Medium",
+    "pattern": "Lower bound + upper bound",
+    "stage": 5,
+    "problem": "05_binary_search/043_first_last_position/problem.py",
+    "solution": "05_binary_search/043_first_last_position/solution.py"
+  },
+  {
+    "id": 44,
+    "title": "Integer Square Root",
+    "difficulty": "Easy",
+    "pattern": "Binary search on an answer",
+    "stage": 5,
+    "problem": "05_binary_search/044_integer_square_root/problem.py",
+    "solution": "05_binary_search/044_integer_square_root/solution.py"
+  },
+  {
+    "id": 45,
+    "title": "Search a Sorted Matrix",
+    "difficulty": "Medium",
+    "pattern": "Virtual flattened array + binary search",
+    "stage": 5,
+    "problem": "05_binary_search/045_search_sorted_matrix/problem.py",
+    "solution": "05_binary_search/045_search_sorted_matrix/solution.py"
+  },
+  {
+    "id": 46,
+    "title": "Search a Rotated Sorted Array",
+    "difficulty": "Medium",
+    "pattern": "Binary search by identifying a sorted half",
+    "stage": 5,
+    "problem": "05_binary_search/046_search_rotated_array/problem.py",
+    "solution": "05_binary_search/046_search_rotated_array/solution.py"
+  },
+  {
+    "id": 47,
+    "title": "Minimum in a Rotated Array",
+    "difficulty": "Medium",
+    "pattern": "Binary search retaining a candidate",
+    "stage": 5,
+    "problem": "05_binary_search/047_minimum_rotated_array/problem.py",
+    "solution": "05_binary_search/047_minimum_rotated_array/solution.py"
+  },
+  {
+    "id": 48,
+    "title": "Find a Peak Element",
+    "difficulty": "Medium",
+    "pattern": "Binary search on a slope",
+    "stage": 5,
+    "problem": "05_binary_search/048_find_peak_element/problem.py",
+    "solution": "05_binary_search/048_find_peak_element/solution.py"
+  },
+  {
+    "id": 49,
+    "title": "Minimum Banana Eating Speed",
+    "difficulty": "Medium",
+    "pattern": "Binary search on minimum feasible answer",
+    "stage": 5,
+    "problem": "05_binary_search/049_minimum_eating_speed/problem.py",
+    "solution": "05_binary_search/049_minimum_eating_speed/solution.py"
+  },
+  {
+    "id": 50,
+    "title": "Ship Packages Within D Days",
+    "difficulty": "Medium",
+    "pattern": "Binary search on answer + greedy feasibility",
+    "stage": 5,
+    "problem": "05_binary_search/050_ship_packages_days/problem.py",
+    "solution": "05_binary_search/050_ship_packages_days/solution.py"
+  },
+  {
+    "id": 51,
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "pattern": "Stack: match the latest unfinished opener",
+    "stage": 6,
+    "problem": "06_stacks_heaps_intervals_trie/051_valid_parentheses/problem.py",
+    "solution": "06_stacks_heaps_intervals_trie/051_valid_parentheses/solution.py"
+  },
+  {
+    "id": 52,
+    "title": "Simplify an Absolute Unix Path",
+    "difficulty": "Medium",
+    "pattern": "Stack: normalize components",
+    "stage": 6,
+    "problem": "06_stacks_heaps_intervals_trie/052_simplify_unix_path/problem.py",
+    "solution": "06_stacks_heaps_intervals_trie/052_simplify_unix_path/solution.py"
+  },
+  {
+    "id": 53,
+    "title": "Evaluate Reverse Polish Notation",
+    "difficulty": "Medium",
+    "pattern": "Stack: evaluate an expression from completed operands",
+    "stage": 6,
+    "problem": "06_stacks_heaps_intervals_trie/053_evaluate_rpn/problem.py",
+    "solution": "06_stacks_heaps_intervals_trie/053_evaluate_rpn/solution.py"
+  },
+  {
+    "id": 54,
+    "title": "Daily Temperatures",
+    "difficulty": "Medium",
+    "pattern": "Monotonic stack of unresolved indices",
+    "stage": 6,
+    "problem": "06_stacks_heaps_intervals_trie/054_daily_temperatures/problem.py",
+    "solution": "06_stacks_heaps_intervals_trie/054_daily_temperatures/solution.py"
+  },
+  {
+    "id": 55,
+    "title": "Next Greater Element in a Circular Array",
+    "difficulty": "Medium",
+    "pattern": "Monotonic stack plus virtual circular traversal",
+    "stage": 6,
+    "problem": "06_stacks_heaps_intervals_trie/055_next_greater_circular/problem.py",
+    "solution": "06_stacks_heaps_intervals_trie/055_next_greater_circular/solution.py"
+  },
+  {
+    "id": 56,
+    "title": "Merge Overlapping Intervals",
+    "difficulty": "Medium",
+    "pattern": "Sort then merge an active interval",
+    "stage": 6,
+    "problem": "06_stacks_heaps_intervals_trie/056_merge_intervals/problem.py",
+    "solution": "06_stacks_heaps_intervals_trie/056_merge_intervals/solution.py"
+  },
+  {
+    "id": 57,
+    "title": "Insert an Interval",
+    "difficulty": "Medium",
+    "pattern": "Three phases: before, overlapping, after",
+    "stage": 6,
+    "problem": "06_stacks_heaps_intervals_trie/057_insert_interval/problem.py",
+    "solution": "06_stacks_heaps_intervals_trie/057_insert_interval/solution.py"
+  },
+  {
+    "id": 58,
+    "title": "Minimum Arrows to Burst Balloons",
+    "difficulty": "Medium",
+    "pattern": "Greedy interval stabbing: choose the earliest end",
+    "stage": 6,
+    "problem": "06_stacks_heaps_intervals_trie/058_minimum_arrows/problem.py",
+    "solution": "06_stacks_heaps_intervals_trie/058_minimum_arrows/solution.py"
+  },
+  {
+    "id": 59,
+    "title": "Kth Largest Element",
+    "difficulty": "Medium",
+    "pattern": "Bounded min-heap: retain the best k candidates",
+    "stage": 6,
+    "problem": "06_stacks_heaps_intervals_trie/059_kth_largest/problem.py",
+    "solution": "06_stacks_heaps_intervals_trie/059_kth_largest/solution.py"
+  },
+  {
+    "id": 60,
+    "title": "Build a Prefix Dictionary",
+    "difficulty": "Medium",
+    "pattern": "Trie: share common prefixes in a character tree",
+    "stage": 6,
+    "problem": "06_stacks_heaps_intervals_trie/060_prefix_dictionary_trie/problem.py",
+    "solution": "06_stacks_heaps_intervals_trie/060_prefix_dictionary_trie/solution.py"
+  },
+  {
+    "id": 61,
+    "title": "Reverse a Linked List",
+    "difficulty": "Easy",
+    "pattern": "Pointer rewiring with previous/current/next",
+    "stage": 7,
+    "problem": "07_linked_lists_and_trees/061_reverse_linked_list/problem.py",
+    "solution": "07_linked_lists_and_trees/061_reverse_linked_list/solution.py"
+  },
+  {
+    "id": 62,
+    "title": "Middle of a Linked List",
+    "difficulty": "Easy",
+    "pattern": "Fast and slow pointers",
+    "stage": 7,
+    "problem": "07_linked_lists_and_trees/062_middle_linked_list/problem.py",
+    "solution": "07_linked_lists_and_trees/062_middle_linked_list/solution.py"
+  },
+  {
+    "id": 63,
+    "title": "Merge Two Sorted Linked Lists",
+    "difficulty": "Easy",
+    "pattern": "Dummy head and a moving tail",
+    "stage": 7,
+    "problem": "07_linked_lists_and_trees/063_merge_sorted_linked_lists/problem.py",
+    "solution": "07_linked_lists_and_trees/063_merge_sorted_linked_lists/solution.py"
+  },
+  {
+    "id": 64,
+    "title": "Remove the Nth Node From the End",
+    "difficulty": "Medium",
+    "pattern": "Fixed-gap pointers with a dummy head",
+    "stage": 7,
+    "problem": "07_linked_lists_and_trees/064_remove_nth_from_end/problem.py",
+    "solution": "07_linked_lists_and_trees/064_remove_nth_from_end/solution.py"
+  },
+  {
+    "id": 65,
+    "title": "Find a Linked List's Cycle Entry",
+    "difficulty": "Medium",
+    "pattern": "Floyd's fast/slow pointers and reset phase",
+    "stage": 7,
+    "problem": "07_linked_lists_and_trees/065_linked_list_cycle_entry/problem.py",
+    "solution": "07_linked_lists_and_trees/065_linked_list_cycle_entry/solution.py"
+  },
+  {
+    "id": 66,
+    "title": "Binary Tree Inorder Traversal",
+    "difficulty": "Easy",
+    "pattern": "Iterative DFS: stack simulates recursive calls",
+    "stage": 7,
+    "problem": "07_linked_lists_and_trees/066_tree_inorder/problem.py",
+    "solution": "07_linked_lists_and_trees/066_tree_inorder/solution.py"
+  },
+  {
+    "id": 67,
+    "title": "Maximum Depth of a Binary Tree",
+    "difficulty": "Easy",
+    "pattern": "Tree DFS carrying depth state",
+    "stage": 7,
+    "problem": "07_linked_lists_and_trees/067_maximum_tree_depth/problem.py",
+    "solution": "07_linked_lists_and_trees/067_maximum_tree_depth/solution.py"
+  },
+  {
+    "id": 68,
+    "title": "Are Two Binary Trees the Same?",
+    "difficulty": "Easy",
+    "pattern": "Traverse paired states to compare structure and values",
+    "stage": 7,
+    "problem": "07_linked_lists_and_trees/068_same_tree/problem.py",
+    "solution": "07_linked_lists_and_trees/068_same_tree/solution.py"
+  },
+  {
+    "id": 69,
+    "title": "Invert a Binary Tree",
+    "difficulty": "Easy",
+    "pattern": "Visit every node and apply a local transformation",
+    "stage": 7,
+    "problem": "07_linked_lists_and_trees/069_invert_binary_tree/problem.py",
+    "solution": "07_linked_lists_and_trees/069_invert_binary_tree/solution.py"
+  },
+  {
+    "id": 70,
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "Medium",
+    "pattern": "Breadth-first search with a fixed layer size",
+    "stage": 7,
+    "problem": "07_linked_lists_and_trees/070_tree_level_order/problem.py",
+    "solution": "07_linked_lists_and_trees/070_tree_level_order/solution.py"
+  },
+  {
+    "id": 71,
+    "title": "Validate a Binary Search Tree",
+    "difficulty": "Medium",
+    "pattern": "DFS carrying exclusive ancestor bounds",
+    "stage": 8,
+    "problem": "08_trees_and_graphs/071_validate_bst/problem.py",
+    "solution": "08_trees_and_graphs/071_validate_bst/solution.py"
+  },
+  {
+    "id": 72,
+    "title": "Kth Smallest Value in a BST",
+    "difficulty": "Medium",
+    "pattern": "Ordered traversal with an early stop",
+    "stage": 8,
+    "problem": "08_trees_and_graphs/072_kth_smallest_bst/problem.py",
+    "solution": "08_trees_and_graphs/072_kth_smallest_bst/solution.py"
+  },
+  {
+    "id": 73,
+    "title": "Diameter of a Binary Tree",
+    "difficulty": "Medium",
+    "pattern": "Bottom-up tree DP using iterative postorder",
+    "stage": 8,
+    "problem": "08_trees_and_graphs/073_tree_diameter/problem.py",
+    "solution": "08_trees_and_graphs/073_tree_diameter/solution.py"
+  },
+  {
+    "id": 74,
+    "title": "Lowest Common Ancestor in a Binary Tree",
+    "difficulty": "Medium",
+    "pattern": "Parent map plus ancestor-set intersection",
+    "stage": 8,
+    "problem": "08_trees_and_graphs/074_lowest_common_ancestor/problem.py",
+    "solution": "08_trees_and_graphs/074_lowest_common_ancestor/solution.py"
+  },
+  {
+    "id": 75,
+    "title": "Count Islands in a Grid",
+    "difficulty": "Medium",
+    "pattern": "Flood fill: one traversal per connected component",
+    "stage": 8,
+    "problem": "08_trees_and_graphs/075_number_of_islands/problem.py",
+    "solution": "08_trees_and_graphs/075_number_of_islands/solution.py"
+  },
+  {
+    "id": 76,
+    "title": "Flood Fill",
+    "difficulty": "Easy",
+    "pattern": "Grid traversal with an explicit stack",
+    "stage": 8,
+    "problem": "08_trees_and_graphs/076_flood_fill/problem.py",
+    "solution": "08_trees_and_graphs/076_flood_fill/solution.py"
+  },
+  {
+    "id": 77,
+    "title": "Clone an Undirected Graph",
+    "difficulty": "Medium",
+    "pattern": "Graph traversal with an original-to-copy map",
+    "stage": 8,
+    "problem": "08_trees_and_graphs/077_clone_graph/problem.py",
+    "solution": "08_trees_and_graphs/077_clone_graph/solution.py"
+  },
+  {
+    "id": 78,
+    "title": "Can You Finish Every Course?",
+    "difficulty": "Medium",
+    "pattern": "Topological sorting with indegrees (Kahn's algorithm)",
+    "stage": 8,
+    "problem": "08_trees_and_graphs/078_course_schedule/problem.py",
+    "solution": "08_trees_and_graphs/078_course_schedule/solution.py"
+  },
+  {
+    "id": 79,
+    "title": "Network Delay Time",
+    "difficulty": "Medium",
+    "pattern": "Dijkstra's shortest paths with a min-heap",
+    "stage": 8,
+    "problem": "08_trees_and_graphs/079_network_delay_time/problem.py",
+    "solution": "08_trees_and_graphs/079_network_delay_time/solution.py"
+  },
+  {
+    "id": 80,
+    "title": "Find the Redundant Connection",
+    "difficulty": "Medium",
+    "pattern": "Disjoint-set union with path compression and union by size",
+    "stage": 8,
+    "problem": "08_trees_and_graphs/080_redundant_connection/problem.py",
+    "solution": "08_trees_and_graphs/080_redundant_connection/solution.py"
+  },
+  {
+    "id": 81,
+    "title": "Generate All Subsets",
+    "difficulty": "Medium",
+    "pattern": "Backtracking: choose, explore, undo",
+    "stage": 9,
+    "problem": "09_backtracking_and_dp/081_subsets/problem.py",
+    "solution": "09_backtracking_and_dp/081_subsets/solution.py"
+  },
+  {
+    "id": 82,
+    "title": "Generate All Permutations",
+    "difficulty": "Medium",
+    "pattern": "Backtracking with used positions",
+    "stage": 9,
+    "problem": "09_backtracking_and_dp/082_permutations/problem.py",
+    "solution": "09_backtracking_and_dp/082_permutations/solution.py"
+  },
+  {
+    "id": 83,
+    "title": "Combination Sum",
+    "difficulty": "Medium",
+    "pattern": "Backtracking with a start index and pruning",
+    "stage": 9,
+    "problem": "09_backtracking_and_dp/083_combination_sum/problem.py",
+    "solution": "09_backtracking_and_dp/083_combination_sum/solution.py"
+  },
+  {
+    "id": 84,
+    "title": "Word Search",
+    "difficulty": "Medium",
+    "pattern": "Grid backtracking with path-local visited state",
+    "stage": 9,
+    "problem": "09_backtracking_and_dp/084_word_search/problem.py",
+    "solution": "09_backtracking_and_dp/084_word_search/solution.py"
+  },
+  {
+    "id": 85,
+    "title": "Climbing Stairs",
+    "difficulty": "Easy",
+    "pattern": "One-dimensional dynamic programming with rolling state",
+    "stage": 9,
+    "problem": "09_backtracking_and_dp/085_climbing_stairs/problem.py",
+    "solution": "09_backtracking_and_dp/085_climbing_stairs/solution.py"
+  },
+  {
+    "id": 86,
+    "title": "House Robber",
+    "difficulty": "Medium",
+    "pattern": "DP: take or skip the current item",
+    "stage": 9,
+    "problem": "09_backtracking_and_dp/086_house_robber/problem.py",
+    "solution": "09_backtracking_and_dp/086_house_robber/solution.py"
+  },
+  {
+    "id": 87,
+    "title": "Minimum Coin Change",
+    "difficulty": "Medium",
+    "pattern": "Unbounded knapsack: minimum-cost one-dimensional DP",
+    "stage": 9,
+    "problem": "09_backtracking_and_dp/087_coin_change/problem.py",
+    "solution": "09_backtracking_and_dp/087_coin_change/solution.py"
+  },
+  {
+    "id": 88,
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "Medium",
+    "pattern": "Binary search on optimal tail values",
+    "stage": 9,
+    "problem": "09_backtracking_and_dp/088_longest_increasing_subsequence/problem.py",
+    "solution": "09_backtracking_and_dp/088_longest_increasing_subsequence/solution.py"
+  },
+  {
+    "id": 89,
+    "title": "Unique Grid Paths",
+    "difficulty": "Medium",
+    "pattern": "Grid DP with a rolling row",
+    "stage": 9,
+    "problem": "09_backtracking_and_dp/089_unique_paths/problem.py",
+    "solution": "09_backtracking_and_dp/089_unique_paths/solution.py"
+  },
+  {
+    "id": 90,
+    "title": "Longest Common Subsequence",
+    "difficulty": "Medium",
+    "pattern": "Two-sequence dynamic programming",
+    "stage": 9,
+    "problem": "09_backtracking_and_dp/090_longest_common_subsequence/problem.py",
+    "solution": "09_backtracking_and_dp/090_longest_common_subsequence/solution.py"
+  },
+  {
+    "id": 91,
+    "title": "Partition Into Equal-Sum Subsets",
+    "difficulty": "Medium",
+    "pattern": "0/1 knapsack with descending updates",
+    "stage": 10,
+    "problem": "10_interview_capstones/091_partition_equal_subset_sum/problem.py",
+    "solution": "10_interview_capstones/091_partition_equal_subset_sum/solution.py"
+  },
+  {
+    "id": 92,
+    "title": "Decode a Digit String",
+    "difficulty": "Medium",
+    "pattern": "DP with validity checks on one- and two-character tokens",
+    "stage": 10,
+    "problem": "10_interview_capstones/092_decode_ways/problem.py",
+    "solution": "10_interview_capstones/092_decode_ways/solution.py"
+  },
+  {
+    "id": 93,
+    "title": "Word Break",
+    "difficulty": "Medium",
+    "pattern": "Prefix DP over a dictionary",
+    "stage": 10,
+    "problem": "10_interview_capstones/093_word_break/problem.py",
+    "solution": "10_interview_capstones/093_word_break/solution.py"
+  },
+  {
+    "id": 94,
+    "title": "Edit Distance",
+    "difficulty": "Hard",
+    "pattern": "Two-sequence DP over insert, delete, and replace operations",
+    "stage": 10,
+    "problem": "10_interview_capstones/094_edit_distance/problem.py",
+    "solution": "10_interview_capstones/094_edit_distance/solution.py"
+  },
+  {
+    "id": 95,
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "Hard",
+    "pattern": "Binary search on a valid partition",
+    "stage": 10,
+    "problem": "10_interview_capstones/095_median_two_sorted_arrays/problem.py",
+    "solution": "10_interview_capstones/095_median_two_sorted_arrays/solution.py"
+  },
+  {
+    "id": 96,
+    "title": "Minimum Window Substring",
+    "difficulty": "Hard",
+    "pattern": "Variable sliding window with frequency deficits",
+    "stage": 10,
+    "problem": "10_interview_capstones/096_minimum_window_substring/problem.py",
+    "solution": "10_interview_capstones/096_minimum_window_substring/solution.py"
+  },
+  {
+    "id": 97,
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "pattern": "Two pointers with certified boundary maxima",
+    "stage": 10,
+    "problem": "10_interview_capstones/097_trapping_rain_water/problem.py",
+    "solution": "10_interview_capstones/097_trapping_rain_water/solution.py"
+  },
+  {
+    "id": 98,
+    "title": "Largest Rectangle in a Histogram",
+    "difficulty": "Hard",
+    "pattern": "Monotonic increasing stack of unresolved boundaries",
+    "stage": 10,
+    "problem": "10_interview_capstones/098_largest_histogram_rectangle/problem.py",
+    "solution": "10_interview_capstones/098_largest_histogram_rectangle/solution.py"
+  },
+  {
+    "id": 99,
+    "title": "Sliding Window Maximum",
+    "difficulty": "Hard",
+    "pattern": "Monotonic deque of still-useful candidates",
+    "stage": 10,
+    "problem": "10_interview_capstones/099_sliding_window_maximum/problem.py",
+    "solution": "10_interview_capstones/099_sliding_window_maximum/solution.py"
+  },
+  {
+    "id": 100,
+    "title": "Burst Balloons",
+    "difficulty": "Hard",
+    "pattern": "Interval DP: choose the LAST action in a subproblem",
+    "stage": 10,
+    "problem": "10_interview_capstones/100_burst_balloons/problem.py",
+    "solution": "10_interview_capstones/100_burst_balloons/solution.py"
+  }
+]

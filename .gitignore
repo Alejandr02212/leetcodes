@@ -1,0 +1,14 @@
+# Personal progress tracker written by practice.py
+.progress.json
+.progress.json.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
